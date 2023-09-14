@@ -2,7 +2,7 @@
 Prediction and Prevention of Flood through pre-Flood water diversion to water-crisis/drought-affected areas
 
 
-PreFlowd would be the underlying algorithm for a Decision Support System tool for preventing floods. The expected logic is as underlined in the Flowchart below (we expect to be using existing Flood and Water-Crisis Prediction algorithms):
+PreFlowd would be the underlying algorithm for a Decision Support System tool for preventing floods. The expected logic is as underlined in the Flowchart (we expect to be using existing Flood and Water-Crisis Prediction algorithms):
 
 
 Team Members Contact Info:
